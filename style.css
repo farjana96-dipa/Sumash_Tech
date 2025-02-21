@@ -378,6 +378,15 @@ body{
     .spec .list-group-item{
       margin-left: 300px;
     }
+
+    .product-images img{
+      width:80% !important;
+      height: 100px !important;
+     }
+
+     .product-image{
+      height: 420px !important;
+    }
   }
   
 
@@ -402,6 +411,8 @@ body{
     .col-sm-12{
       width:100% !important;
      }
+
+     
      
   }
 
@@ -417,5 +428,8 @@ body{
     }
     .col-md-6{
       width:100% !important;
+    }
+    .product-image{
+      height: 380px;
     }
   }
