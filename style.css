@@ -432,4 +432,21 @@ body{
     .product-image{
       height: 380px;
     }
+    .spec .list-group-item{
+      margin-left:120px !important;
+    }
+
+    .product-images img{
+      width:80% !important;
+      height: 60px !important;
+      margin-left: 10px !important;
+     }
+
+     .product-image{
+      height: 300px !important;
+    }
+
+    .acc-part{
+      margin-top:5px;
+    }
   }
